@@ -9,8 +9,8 @@ public class StaticClasses {
         System.out.println(NameFormatter.format("Mel Johnson"));
         System.out.println(NameFormatter.format("Mel B Johnson, PhD"));
         System.out.println(NameFormatter.format("Dr. Mel B Johnson, PhD"));
+        System.out.println(NameFormatter.format("Dr. Mel B Johnson, PhD"));
+        System.out.println(NameFormatter.format("Mel B Johnson, PhD"));
 
-        String formattedName3 = NameFormatter.format("Anthony", "Edwards");
-        System.out.println(formattedName3);
     }
 }
