@@ -10,7 +10,6 @@ public class StaticClasses {
         System.out.println(NameFormatter.format("Mel B Johnson, PhD"));
         System.out.println(NameFormatter.format("Dr. Mel B Johnson, PhD"));
 
-        // Test the format method with minimum name components
         String formattedName3 = NameFormatter.format("Anthony", "Edwards");
         System.out.println(formattedName3);
     }

@@ -2,7 +2,6 @@ package com.pluralsight;
 
 public class NameFormatter {
 
-    // Private constructor to prevent instantiation of this class
     private NameFormatter() {
     }
 
